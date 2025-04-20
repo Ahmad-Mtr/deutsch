@@ -1,5 +1,5 @@
-> [!TIP]
-> USE [Obsidian](https://obsidian.md) to read this Vault
+> [!IMPORTANT]
+> Check `/pdfs` if you don't have [Obsidian](htttps://obsidian.md)
 ## Lecture Files
 ### Examples
 - [[Beschwerdemail ordnen.pdf]]
