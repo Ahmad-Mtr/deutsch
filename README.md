@@ -1,3 +1,5 @@
+> [!TIP]
+> USE [Obsidian](https://obsidian.md) to read this Vault
 ## Lecture Files
 ### Examples
 - [[Beschwerdemail ordnen.pdf]]

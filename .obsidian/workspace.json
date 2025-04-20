@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -50,7 +50,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -200,10 +199,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2498629acfa0ac45",
+  "active": "0fd6c77c71950e02",
   "lastOpenFiles": [
-    "template.md",
     "practice.md",
+    "template.md",
     "README.md",
     "connecting-phrases.md",
     "vocab.md",
